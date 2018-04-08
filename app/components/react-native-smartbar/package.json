@@ -1,0 +1,86 @@
+{
+  "_args": [
+    [
+      "react-native-smartbar",
+      "D:\\react-native\\MovieTalk"
+    ]
+  ],
+  "_cnpm_publish_time": 1487174287024,
+  "_from": "react-native-smartbar@latest",
+  "_hasShrinkwrap": false,
+  "_id": "react-native-smartbar@0.1.4",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/react-native-smartbar",
+  "_nodeVersion": "7.3.0",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/react-native-smartbar-0.1.4.tgz_1487174285216_0.3959854240529239"
+  },
+  "_npmUser": {
+    "email": "nanazuimeng123@gmail.com",
+    "name": "wittbulter"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "react-native-smartbar",
+    "raw": "react-native-smartbar",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npm.taobao.org/react-native-smartbar/download/react-native-smartbar-0.1.4.tgz",
+  "_shasum": "ef5c3261b31f0c080814ee0a4d3f9a2682cb16e8",
+  "_shrinkwrap": null,
+  "_spec": "react-native-smartbar",
+  "_where": "D:\\react-native\\MovieTalk",
+  "author": {
+    "name": "WittBulter"
+  },
+  "bugs": {
+    "url": "https://github.com/WittBulter/react-native-smartbar/issues"
+  },
+  "dependencies": {},
+  "description": "tabbar react-native android ios ",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "noattachment": false,
+    "shasum": "ef5c3261b31f0c080814ee0a4d3f9a2682cb16e8",
+    "size": 12210,
+    "tarball": "http://registry.npm.taobao.org/react-native-smartbar/download/react-native-smartbar-0.1.4.tgz"
+  },
+  "gitHead": "124cbc95d1bf8b28756c810f8c0c2d001275b83e",
+  "homepage": "https://github.com/WittBulter/react-native-smartbar#readme",
+  "keywords": [
+    "tabbar",
+    "react-native",
+    "android",
+    "ios"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "email": "nanazuimeng123@gmail.com",
+      "name": "wittbulter"
+    }
+  ],
+  "name": "react-native-smartbar",
+  "optionalDependencies": {},
+  "publish_time": 1487174287024,
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://WittBulter@github.com/WittBulter/react-native-smartbar.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.4"
+}
